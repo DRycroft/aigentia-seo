@@ -36,6 +36,13 @@
         </a>
       </p>
 
+      <h2>Related Guides</h2>
+      <ul>
+        <li><a href="/compress-drone-video">How to Compress Drone Video</a></li>
+        <li><a href="/compress-4k-video">How to Compress 4K Video</a></li>
+        <li><a href="/compress-mp4-without-losing-quality">Compress MP4 Without Losing Quality</a></li>
+      </ul>
+
       <a href="/products/drone-video-compressor">
         <button style={{ padding: "10px 20px", marginTop: "20px" }}>
           Open Drone Video Compressor
