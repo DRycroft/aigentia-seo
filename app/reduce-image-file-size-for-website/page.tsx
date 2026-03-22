@@ -26,6 +26,7 @@
       <ul>
         <li><a href="/compress-images-without-losing-quality">Compress images without losing quality</a></li>
         <li><a href="/bulk-image-compression-tool">Bulk image compression tool</a></li>
+        <li><a href="/offline-image-compressor-windows">Offline image compressor</a></li>
       </ul>
     </main>
   );
