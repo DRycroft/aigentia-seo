@@ -1,27 +1,27 @@
 ﻿export default function Page() {
   return (
     <main style={{ padding: "40px", maxWidth: "800px", margin: "0 auto" }}>
-      <h1>best-image-optimisation-tool-no-subscription</h1>
+      <h1>Best Image Optimisation Tool (No Subscription)</h1>
 
       <p>
-        Large image files slow down your website and reduce performance.
-        Most tools either degrade quality or require uploads.
+        Many tools charge monthly fees for basic image compression.
       </p>
 
       <p>
-        Aigentia Image Optimiser solves this by compressing images locally on your computer,
-        keeping full control and preserving visual quality.
+        Aigentia Image Optimiser is a one-time purchase with unlimited use.
       </p>
 
       <p>
-        No uploads. No subscriptions. Just fast, simple optimisation.
-      </p>
-
-      <p>
-        <a href="https://aigentia.io/products/image-optimiser">
-          👉 Try Aigentia Image Optimiser
+        👉 <a href="https://aigentia.io/products/image-optimiser">
+        Get lifetime access
         </a>
       </p>
+
+      <hr />
+      <ul>
+        <li><a href="/offline-image-compressor-windows">Offline image compressor</a></li>
+        <li><a href="/bulk-image-compression-tool">Bulk image compression</a></li>
+      </ul>
     </main>
   );
 }
