@@ -4,6 +4,36 @@
       url: "https://seo.aigentia.io",
       lastModified: new Date(),
     },
+
+    // Product
+    {
+      url: "https://seo.aigentia.io/products/image-optimiser",
+      lastModified: new Date(),
+    },
+
+    // Image optimiser cluster
+    {
+      url: "https://seo.aigentia.io/compress-images-without-losing-quality",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://seo.aigentia.io/reduce-image-file-size-for-website",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://seo.aigentia.io/offline-image-compressor-windows",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://seo.aigentia.io/bulk-image-compression-tool",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://seo.aigentia.io/best-image-optimisation-tool-no-subscription",
+      lastModified: new Date(),
+    },
+
+    // Existing video pages (keep them)
     {
       url: "https://seo.aigentia.io/products/drone-video-compressor",
       lastModified: new Date(),
